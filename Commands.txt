@@ -1,0 +1,7 @@
+
+git init
+git add . //dot means add all the files.
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tanvir-22/First_repo_2026.git
+git push -u origin main
